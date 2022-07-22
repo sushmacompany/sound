@@ -1,0 +1,5 @@
+/opt/sound/src/main/java/sound/config/AppConfig.java
+/opt/sound/src/main/java/sound/config/Mixer2EngineSingleton.java
+/opt/sound/src/main/java/sound/view/IndexView.java
+/opt/sound/src/main/java/sound/controller/IndexController.java
+/opt/sound/src/main/java/sound/Application.java
